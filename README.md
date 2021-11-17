@@ -3,12 +3,12 @@
 ## Description 
 
 ## Table of Contents 
-*[Description](#description)
-*[Demonstration](#demonstration )
-*[]()
-*[]()
-*[]()
-*[]()
+* [Description](#description)
+* [Demonstration](#demonstration)
+* []()
+* []()
+* []()
+* []()
 
 ## Demonstration 
 
