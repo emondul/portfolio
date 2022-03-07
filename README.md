@@ -10,7 +10,7 @@ Active Link: https://emondul.github.io/portfolio/
 ## Description
 
 This is my portfolio where you can find my projects I've worked on and information about me.
-/assets/img/portfolio.png
+![screenshot](/assets/img/portfolio.png?raw=true "Screenshot")
 
 ## Table of Contents
 
